@@ -1,1 +1,6 @@
-node_module
+# Ignore compiled files
+
+
+# Ignore dependencies
+/node_modules
+/.env
